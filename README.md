@@ -48,3 +48,7 @@ dotnet run
 
 - Microsoft.AspNetCore.Mvc (for controller functionality)
 - Ollama (external dependency)
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
